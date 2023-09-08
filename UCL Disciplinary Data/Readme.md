@@ -1,15 +1,13 @@
 
 
 # UEFA Champions League (UCL) 2021/22 Season Disciplinary Data
-https://tenor.com/view/jacob-tratt-sliding-tackle-takedown-denied-rejected-gif-25191290
-![Disciplinary Data](https://tenor.com/view/jacob-tratt-sliding-tackle-takedown-denied-rejected-gif-25191290)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/A6ymwAjp2pPHEIJHrm/giphy.gif" alt="Project Banner" height="500" width = "1000">
 ## Overview
 
 Welcome to the UEFA Champions League (UCL) 2021/22 Season Disciplinary Data repository! This repository contains datasets and resources related to player disciplinary records in the 2021/22 season of the UEFA Champions League. The data includes information about fouls committed, fouls suffered, red cards, yellow cards, minutes played, and matches played.
-
-![UCL Logo](https://tenor.com/view/uefa-champions-league-uefa-ucl-şampi̇yonlarli̇gi̇-şampiyonlar-ligi-gif-25941170)
-
+<p align="center">
+  <img src="https://m.media-amazon.com/images/M/MV5BN2E3OWQ3YjQtNWZkMS00M2Q2LWFiYWYtMjQzYzYzMzBlNGEwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" alt="Project Banner" height="500" width = "1000">
 ## Repository Contents
 
 - **Data:** The `data` directory contains the main dataset used in this repository.
