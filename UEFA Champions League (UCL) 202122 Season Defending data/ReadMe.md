@@ -1,9 +1,9 @@
 
 # UEFA Champions League Defending Data Analysis
 
-🚀 Analyzing and Visualizing UCL Defending Statistics
+                                    🚀 Analyzing and Visualizing UCL Defending Statistics
 
-![UEFA Champions League Logo](https://media.giphy.com/media/xUPGcB3NHx1WUomGiI/giphy.gif)
+![UEFA Champions League Logo](https://m.media-amazon.com/images/M/MV5BN2E3OWQ3YjQtNWZkMS00M2Q2LWFiYWYtMjQzYzYzMzBlNGEwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg)
 
 
 
