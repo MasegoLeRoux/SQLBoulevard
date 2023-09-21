@@ -5,8 +5,6 @@
 
 ![UEFA Champions League Logo](https://media.giphy.com/media/xUPGcB3NHx1WUomGiI/giphy.gif)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6nV0RC4Z2jhuxFEQ/giphy.gif" alt="Project Banner" height="500" width = "1000">
 
 
 ## Table of Contents
@@ -22,6 +20,8 @@
 ## About
 
 ℹ️ The UEFA Champions League Defending Data Analysis project is a data analysis and visualization project that focuses on the defensive statistics of players and clubs in the UEFA Champions League. We explore various aspects of defending, including tackles, tackles won, balls recovered, clearance attempts, and more.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6nV0RC4Z2jhuxFEQ/giphy.gif" alt="Project Banner" height="500" width = "800">
 
 This project aims to provide insights into the defensive performance of players and clubs in the UCL, helping football enthusiasts, coaches, and analysts gain a deeper understanding of defensive strategies and individual player contributions.
 
