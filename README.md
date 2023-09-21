@@ -35,9 +35,9 @@ My journey through databases has been enriched by engaging with the following te
 ## SQL Projects
 Dive into my SQL ventures, where I've tackled challenges like constructing scalable e-commerce infrastructures, streamlining customer relationship management, and crafting intricate reporting mechanisms.
 
-# PROJECT_1
+# PROJECTS
 ### UEFA Champions League (UCL) 2021/22 Season Disciplinary Data
-
+### UEFA Champions League (UCL) 2021/22 Season Defending data
 
 ## NoSQL Projects
 Explore my NoSQL escapades, where I've harnessed MongoDB's document-oriented structure to build solutions for managing unstructured data, fashioning dynamic user profiles, and enabling real-time data analysis.
