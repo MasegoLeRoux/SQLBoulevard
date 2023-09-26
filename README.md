@@ -7,7 +7,7 @@
 
 # SQL and NoSQL Database Portfolio: Oracle, MySQL, SQL Server, MongoDB
 
-Welcome to my Database Portfolio! This repository serves as a showcase of my hands-on experience and accomplishments in the realm of databases—both SQL and NoSQL. I've engaged with Oracle, MySQL, and SQL Server for SQL databases, while also delving into the versatile world of MongoDB for NoSQL databases. Whether you're a fellow developer, potential collaborator, or just someone intrigued by database wizardry, I invite you to dive into the projects and skills featured here.
+Welcome to my Database Portfolio! This repository serves as a showcase of my hands-on experience and accomplishments in the realm of databases—both SQL and NoSQL. I've engaged with Oracle, MySQL, and SQL Server for SQL databases, while also delving into the versatile world of MongoDB for NoSQL databases. Whether you're a fellow developer, a potential collaborator, or just someone intrigued by database wizardry, I invite you to dive into the projects and skills featured here.
 
 ## Table of Contents
 - [Introduction](#introduction):file_cabinet:
@@ -37,7 +37,19 @@ Dive into my SQL ventures, where I've tackled challenges like constructing scala
 
 # PROJECTS
 ### UEFA Champions League (UCL) 2021/22 Season Disciplinary Data
+ <p align="center">
+  <img src="https://media.giphy.com/media/d9AGysFbnSlQDEpLrO/giphy.gif" alt="Project Banner" height="450" width = "1000">
+</p>
+
 ### UEFA Champions League (UCL) 2021/22 Season Defending data
+ <p align="center">
+  <img src="https://media.giphy.com/media/WN6QotHHGU7VUYPp9u/giphy.gif" alt="Project Banner" height="450" width = "1000">
+</p>
+
+### UEFA Champions League (UCL) 202122 Season attacking
+ <p align="center">
+  <img src="https://media.giphy.com/media/WTibN1WCEkLUKptpgp/giphy-downsized-large.gif" alt="Project Banner" height="550" width = "1000">
+</p>
 
 ## NoSQL Projects
 Explore my NoSQL escapades, where I've harnessed MongoDB's document-oriented structure to build solutions for managing unstructured data, fashioning dynamic user profiles, and enabling real-time data analysis.
