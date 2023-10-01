@@ -48,8 +48,15 @@ Dive into my SQL ventures, where I've tackled challenges like constructing scala
 
 - [UEFA Champions League (UCL) 202122 Season attacking](https://github.com/MasegoLeRoux/SQLBoulevard/tree/main/UEFA%20Champions%20League%20(UCL)%20202122%20Season%20attacking)
  <p align="center">
-  <img src="https://media.giphy.com/media/WTibN1WCEkLUKptpgp/giphy-downsized-large.gif" alt="Project Banner" height="550" width = "1000">
+  <img src="https://media.giphy.com/media/WTibN1WCEkLUKptpgp/giphy-downsized-large.gif" alt="Project Banner" height="450" width = "1000">
  </p>
+ 
+ - [UEFA Champions League (UCL) 202122 Distribution Data Analysis](https://github.com/MasegoLeRoux/SQLBoulevard/tree/main/UEFA%20Champions%20League%20(UCL)%20202122%20Distribution%20Data%20Analysis)
+ <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ6bTJqMXA5YnBtMWV5a2QwZ3poOTc2OG1jbzdrbGRrdXkxa3h2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2zoLjSpEtHhcr8v1wi/giphy-downsized.gif" alt="Project Banner" height="550" width = "1000">
+ </p>
+
+
 
 ## NoSQL Projects
 Explore my NoSQL escapades, where I've harnessed MongoDB's document-oriented structure to build solutions for managing unstructured data, fashioning dynamic user profiles, and enabling real-time data analysis.
