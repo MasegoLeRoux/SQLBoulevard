@@ -3,11 +3,7 @@
 
 🚀 Analyzing and Visualizing UCL Distribution Statistics
 
-![Soccer GIF](https://media.giphy.com/media/xUPGcB3NHx1WUomGiI/giphy.gif)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6nV0RC4Z2jhuxFEQ/giphy.gif" alt="Project Banner" height="500" width="1000">
-</p>
+![Soccer GIF](https://assets.adidas.com/images/w_1880,f_auto,q_auto/1a8fd304e5ca4814a0773f01239a4bbe_9366/IA0953_HM5.jpg)
 
 ## Table of Contents
 
@@ -20,6 +16,9 @@
 - [License](#license)
 
 ## About
+<p align="center">
+  <img src="https://media.giphy.com/media/Iep39y8J4tlGB0yiQk/giphy-downsized.gif" alt="Project Banner" height="500" width="1000">
+</p>
 
 ℹ️ The UEFA Champions League Distribution Data Analysis project is a data analysis and visualization project that focuses on the distribution statistics of players and clubs in soccer, with a specific emphasis on the UEFA Champions League. We explore various aspects of distribution, including passing accuracy, cross accuracy, free kicks, and more.
 
