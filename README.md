@@ -36,7 +36,7 @@ My journey through databases has been enriched by engaging with the following te
 Dive into my SQL ventures, where I've tackled challenges like constructing scalable e-commerce infrastructures, streamlining customer relationship management, and crafting intricate reporting mechanisms.
 
 # PROJECTS
-### UEFA Champions League (UCL) 2021/22 Season Disciplinary Data
+### [UEFA Champions League (UCL) 2021/22 Season Disciplinary Data](#https://github.com/MasegoLeRoux/SQLBoulevard/tree/main/UCL%20Disciplinary%20Data)
  <p align="center">
   <img src="https://media.giphy.com/media/d9AGysFbnSlQDEpLrO/giphy.gif" alt="Project Banner" height="450" width = "1000">
 </p>
