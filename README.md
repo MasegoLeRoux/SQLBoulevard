@@ -35,21 +35,21 @@ My journey through databases has been enriched by engaging with the following te
 ## SQL Projects
 Dive into my SQL ventures, where I've tackled challenges like constructing scalable e-commerce infrastructures, streamlining customer relationship management, and crafting intricate reporting mechanisms.
 
-# PROJECTS
-### [UEFA Champions League (UCL) 2021/22 Season Disciplinary Data](#https://github.com/MasegoLeRoux/SQLBoulevard/tree/main/UCL%20Disciplinary%20Data)
+## PROJECTS
+ - [UEFA Champions League (UCL) 2021/22 Season Disciplinary Data](https://github.com/MasegoLeRoux/SQLBoulevard/tree/main/UCL%20Disciplinary%20Data)
  <p align="center">
   <img src="https://media.giphy.com/media/d9AGysFbnSlQDEpLrO/giphy.gif" alt="Project Banner" height="450" width = "1000">
 </p>
 
-### UEFA Champions League (UCL) 2021/22 Season Defending data
+- [UEFA Champions League (UCL) 2021/22 Season Defending data](https://github.com/MasegoLeRoux/SQLBoulevard/tree/main/UEFA%20Champions%20League%20(UCL)%20202122%20Season%20Defending%20data)
  <p align="center">
   <img src="https://media.giphy.com/media/WN6QotHHGU7VUYPp9u/giphy.gif" alt="Project Banner" height="450" width = "1000">
-</p>
+ </p>
 
-### UEFA Champions League (UCL) 202122 Season attacking
+- [UEFA Champions League (UCL) 202122 Season attacking](https://github.com/MasegoLeRoux/SQLBoulevard/tree/main/UEFA%20Champions%20League%20(UCL)%20202122%20Season%20attacking)
  <p align="center">
   <img src="https://media.giphy.com/media/WTibN1WCEkLUKptpgp/giphy-downsized-large.gif" alt="Project Banner" height="550" width = "1000">
-</p>
+ </p>
 
 ## NoSQL Projects
 Explore my NoSQL escapades, where I've harnessed MongoDB's document-oriented structure to build solutions for managing unstructured data, fashioning dynamic user profiles, and enabling real-time data analysis.
